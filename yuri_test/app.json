@@ -1,0 +1,32 @@
+﻿{
+    "id":  "720e2c77-54a3-43e0-b86c-b430a4536dac",
+    "name":  "yuri_test",
+    "publisher":  "entropichaos",
+    "version":  "1.0.0.0",
+    "brief":  "",
+    "description":  "",
+    "privacyStatement":  "",
+    "EULA":  "",
+    "help":  "",
+    "url":  "",
+    "logo":  "",
+    "dependencies":  [
+
+                     ],
+    "screenshots":  [
+
+                    ],
+    "platform":  "1.0.0.0",
+    "application":  "19.0.0.0",
+    "idRanges":  [
+                     {
+                         "from":  50100,
+                         "to":  50150
+                     }
+                 ],
+    "resourceExposurePolicy":  {
+                                   "allowDebugging":  true,
+                                   "allowDownloadingSource":  false,
+                                   "includeSourceInSymbolFile":  false
+                               }
+}
